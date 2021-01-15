@@ -1,0 +1,54 @@
+- name: Rafael Márquez
+  photo: marquez.jpg
+  info: Scientific researcher - Museo Nacional de Ciencias Naturales (Madrid, Spain). <a href='https://www.mncn.csic.es/es/quienes_somos/rafael-marquez-martinez-de-orense'>Personal website.</a>
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Rogério Pereira Bastos
+  photo: roger.jpg
+  info: Associate Professor - Federal University of Goiás (UFG, Brazil). <a href='https://lherp.ecoevol.ufg.br/p/2193-rogerio-pereira-bastos'>Laboratório de Herpetologia e Comportamento animal.</a>
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Jérôme Sueur
+  photo: sueur.jpg
+  info: Assistant Professor - Muséum National d'Histoire Naturelle (Paris, France). <a href='http://ear.cnrs.fr/'>Ecoacoustic research project.</a>
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Juan Sebastian Ulloa
+  photo: ulloa.jpeg
+  info: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (Bogotá, Colombia).
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Camille Desjonquères
+  photo: cami.jpeg
+  info: Post-Doctoral fellow at the University of Wisconsin-Milwaukee (USA) <a href='https://desjonqu.github.io/Desjonqu.github.io/'>(website).</a>
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+
+
+
+    

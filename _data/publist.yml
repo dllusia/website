@@ -1,0 +1,327 @@
+- title: "The Bird Dawn Chorus Revisited"
+  image: gil.png
+  description: The bird dawn chorus has fascinated humans since ancient times, but still today numerous questions remain unclear. This chapter will explore this puzzling phenomenon, a communal display that likely involves the highest level of sound complexity found among animal signals.
+  authors: D Gil, **D Llusia**
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-39200-0_3
+    display:  Coding Strategies in Vertebrate Acoustic Communication (2020), 45-90.
+  highlight: 1
+  news2:
+
+- title: "Anthropogenic substrate-borne vibrations impact anuran calling"
+  image: caorsi.png
+  description: Anthropogenic disturbance is a major cause of the biodiversity crisis. Nevertheless, the role of anthropogenic substrate vibrations in disrupting animal behavior is poorly understood. Amphibians comprise the terrestrial vertebrates most sensitive to vibrations, and since communication is crucial to their survival and reproduction, they are a suitable model for investigating this timely subject. 
+  authors: V Caorsi, V Guerra, R Furtado, **D Llusia**, LR Miron, M Borges-Martins, C Both, PM Narins, SWF Meenderink, R Márquez
+  link:
+    url: https://www.nature.com/articles/s41598-019-55639-0
+    display:  Scientific Reports (2019), 9, e19456. 
+  highlight: 1
+  news2:
+
+- title: "Explosive breeding in tropical anurans: environmental triggers, community composition and acoustic structure"
+  image: ulloa.png
+  description: Our data provides a baseline against which future changes, possibly linked to climate change, can be measured, contributing to a better understanding on the causes, patterns and consequences of these unique assemblages.
+  authors: JS Ulloa, T Aubin, **D Llusia**, EA Courtois, A Fouquet, P Gaucher, S Pavoine, J Sueur.
+  link:
+    url: https://bmcecol.biomedcentral.com/articles/10.1186/s12898-019-0243-y
+    display:  BMC Ecology (2019), 19, e28.
+  highlight: 1
+  news2:
+
+- title: "A roadmap for survey designs in terrestrial acoustic monitoringr"
+  image: gif_rsec.gif
+  description: Here, we (i) review spatial and temporal sampling designs used in passive acoustic monitoring, (ii) provide a synthesis of the crucial aspects of PAM survey design and (iii) propose a workflow to optimize recording autonomy and recording schedules.
+  authors: LSM Sugai, **C Desjonquères**, TSF Silva, **D Llusia**
+  link:
+    url: https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.131
+    display:  Remote Sensing in Ecology and Conservation, doi:10.1002/rse2.131
+  highlight: 1
+  news2:
+
+
+- title: "Lizard calls convey honest information on body size and bite performance: a role in predator deterrence?"
+  image: 
+  description: ""
+  authors: S Baeckens, D Llusia, R García-Roa, J Martín
+  link:
+    url: https://link.springer.com/article/10.1007/s00265-019-2695-7
+    display:  Behavioral Ecology and Sociobiology (2919), 73(6), 87.
+  highlight: 0
+  news2:
+
+- title: "Bioacoustic time capsules: using acoustic monitoring to document biodiversity"
+  image: 
+  description: ""
+  authors: LSM Sugai, D Llusia
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1470160X18309543
+    display: Ecologial Indicators (2019), 99, 149-152.
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Terrestrial passive acoustic monitoring: review and perspectives"
+  image: biosci_cover.png
+  description: Passive acoustic monitoring (PAM) is quickly gaining ground in ecological research, following global trends toward automated data collection and big data. Using unattended sound recording, PAM provides tools for long-term and cost-effective biodiversity monitoring. Still, the extent of the potential of this emerging method in terrestrial ecology is unknown. To quantify its application and guide future studies, we conducted a systematic review of terrestrial PAM, covering 460 articles published in 122 journals (1992–2018).
+  authors: LSM Sugai, TSF Silva, JW Ribeiro Jr, D Llusia
+  link:
+    url: https://aip.scitation.org/doi/10.1063/1.5043267
+    display:  BioScience (2019) 69(1), 15-25.
+  highlight: 1
+  news2:
+
+- title: "Acoustic communities reflects lateral hydrological connectivity in riverine floodplain similarly to macroinvertebrate communities"
+  image: cami_paper.png
+  description: "Recent studies revealed that information on ecological patterns and processes can be investigated using sounds emanating from animal communities. In freshwater environments, animal communities are strongly shaped by key ecological factors such as lateral connectivity and temperature. We predict that those ecological factors are linked to acoustic communities formed by the collection of sounds emitted underwater."
+  authors: C Desjonquères, F Rybak, E Castella, D Llusia, J Sueur
+  link:
+    url: https://www.nature.com/articles/s41598-018-31798-4
+    display: Scientific reports (2018), 8(1), 1-11.
+  highlight: 1
+  news2:
+
+- title: "Estimating animal acoustic diversity in tropical environments using unsupervised multiresolution analysis"
+  image: 
+  description: ""
+  authors: JS Ulloa, T Aubin, D Llusia, C Bouveyron, J Sueur
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1470160X1830181X
+    display:  Ecological Indicators (2018,) 90, 346-355.
+  highlight: 0
+  news2: 
+
+- title: "The advertisement calls of Brazilian anurans: Historical review, current knowledge and future directions"
+  image: 
+  description: ""
+  authors: V Guerra, D Llusia, PG Gambale, AR de Morais, R Marquez, RP Bastos
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191691
+    display:  PLoS One (2018), 13(1), e0191691.
+  highlight: 0
+  news2:
+
+- title: "First evidence of sound production in the genus Iberolacerta Arribas, 1997 (Squamata: Sauria: Lacertidae)"
+  image: 
+  description: ""
+  authors: R Garcia-Roa, D Llusia, P Lopez, J Martín
+  link:
+    url: http://hdl.handle.net/10261/199028
+    display: Herpetozoa (2017), 29, 175-181.
+  highlight: 0
+
+- title: "Synthetic rainfall vibrations evoke toad emergence"
+  image: 
+  description: ""
+  authors:
+    R Márquez, JF Beltrán, D Llusia, M Penna, PM Narins
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0960982216313306
+    display: Current Biology (2016), 19, R1270-R1271.
+  highlight: 0
+
+- title: "Temperature-induced shifts in hibernation behavior in experimental amphibian populations"
+  image: 
+  description: ""
+  authors: X Gao, C Jin, D Llusia, Y Li
+  link:
+    url: https://www.nature.com/articles/srep11580
+    display: Scientific Reports (2015), 5, 11580
+  highlight: 0
+  news2: 
+
+- title: "Sex and age-class differences in calls of Iberian red deer during the rut: reversed sex dimorphism of pitch and contrasting roars from farmed and wild stags"
+  image: 
+  description: ""
+  authors: IA Volodin, VA Matrosova, EV Volodina, AJ Garcia, L Gallego, R Márquez, D Llusia, JF Beltrán, T Landete-Castillejos
+  link:
+    url: https://link.springer.com/article/10.1007/s10211-013-0179-8
+    display: Acta Ethologica (2015), 18, 19-29.
+  highlight: 0
+  news2: 
+
+- title: "Neither convergence nor divergence in the advertisement call of sympatric congeneric Neotropical treefrogs"
+  image: 
+  description: ""
+  authors: LF Toledo, D Llusia, CA Vieira, M Corbo, R Márquez
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/09524622.2014.926831
+    display: Bioacoustics (2015), 24(1), 31-47.
+  highlight: 0
+  news2: 
+
+- title: "Concierto de sapos y ranas"
+  image: 
+  description: ""
+  authors: DL Genique, JFB Gala, R Márquez
+  link:
+    url: https://dialnet.unirioja.es/servlet/articulo?codigo=4727480
+    display: Investigación y ciencia (2014), 48-49
+  highlight: 0
+  news2: 
+    
+- title: "Aplicación de la bioacústica al seguimiento de anfibios"
+  image: 
+  description: ""
+  authors: R Márquez, D Llusia, JF Beltrán
+  link:
+    url: https://www.researchgate.net/profile/Juan_Beltran3/publication/292988138_Aplicacion_de_la_bioacustica_al_seguimiento_de_anfibios/links/56b483fb08ae922e6c013e39/Aplicacion-de-la-bioacustica-al-seguimiento-de-anfibios.pdf
+    display: Bol. Asoc. Herpetol. Esp. (2014), 25, 52-58.
+  highlight: 0
+  news2: 
+    
+- title: "Calling behaviour under climate change: geographical and seasonal variation of calling temperatures in ectotherms"
+  image: 
+  description: ""
+  authors: D Llusia, R Márquez, JF Beltrán, M Benítez, JP Do Amaral
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12267
+    display: Global Change Biology (2013), 19, 2655-2674.
+  highlight: 0
+  news2: 
+
+  
+- title: "Environmental and social determinants of anuran lekking behavior: intraspecific variation in populations at thermal extremes"
+  image: 
+  description: ""
+  authors: D Llusia, R Márquez, JF Beltrán, C Moreira, JP Do Amaral
+  link:
+    url: https://link.springer.com/article/10.1007/s00265-012-1469-2
+    display: Behavioral Ecology and Sociobiology (2013), 67(3), 493-511.
+  highlight: 0
+  news2: 
+  
+- title: "Seasonal and diel temperature variation of breeding microhabitat in Hyla molleri and H. meridionalis: comparison between Iberian populations at thermal extremes"
+  image: 
+  description: ""
+  authors: D Llusia, R Márquez, CN Moreira, A Arias
+  link:
+    url: https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=27527087
+    display: Bulletin de la Société herpétologique de France (2013),145-46, 73-90
+  highlight: 0
+  news2: 
+  
+- title: "Call transmission efficiency in native and invasive anurans: competing hypotheses of divergence in acoustic signals"
+  image: 
+  description: ""
+  authors: D Llusia, M Gómez, M Penna, R Márquez
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077312
+    display: PloS one (2013), 8(10), e77312.
+  highlight: 0
+  news2: 
+  
+- title: "Propagation of natural toad calls in a Mediterranean terrestrial environment"
+  image: 
+  description: ""
+  authors: M Penna, D Llusia, R Márquez
+  link:
+    url: https://asa.scitation.org/doi/abs/10.1121/1.4763982
+    display: The Journal of the Acoustical Society of America (2012), 132(6), 4025-4031.
+  highlight: 0
+  news2: 
+
+  
+- title: "Effects of temperature on the song parameters of the Moroccan bushcricket Eugaster spinulosa (Orthoptera, Tettigoniidae)"
+  image: 
+  description: ""
+  authors: A Arias, R Márquez, D Llusia, JF Beltrán, T Slimani, M Radi, A Fattah, E Hassan E Mouden
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/09524622.2012.686185
+    display: Bioacoustics (2012), 21(3), 225-238.
+  highlight: 0
+  news2: 
+
+  
+- title: "Environmental determinants of acoustic activity in Iberian anurans"
+  image: 
+  description: ""
+  authors: R Marquez, D Llusia, JF Beltran
+  link:
+    url: https://asa.scitation.org/doi/abs/10.1121/1.4755605
+    display: The Journal of the Acoustical Society of America (2012), 132(3), 2064-2064.
+  highlight: 0
+  news2: 
+
+  
+- title: "Acoustic and thermal monitoring of temperate anuran populations"
+  image: 
+  description: ""
+  authors: R Marquez, D Llusia, JF Beltrán
+  link:
+    url: https://asa.scitation.org/doi/abs/10.1121/1.3654943
+    display: The Journal of the Acoustical Society of America (2011), 130(4), 2499-2499.
+  highlight: 0
+  news2: 
+
+- title: "Los sonidos de los animales: una firma de su identidad"
+  image: 
+  description: ""
+  authors: R Márquez, I de la Riva, D Gil, J Sueur, PAM Marques, D Genique, X Eekhout, MP Valle, LG Ortiz, G Solís, JF Beltrán, JPS Amaral
+  link:
+    url: https://dialnet.unirioja.es/servlet/articulo?codigo=4497841
+    display: Quercus (2011), 299, 34-44.
+  highlight: 0
+  news2: 
+
+- title: "Terrestrial sound monitoring systems, a methodology for quantitative calibration"
+  image: 
+  description: ""
+  authors: D Llusia, R Márquez, R Bowker
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/09524622.2011.9753651
+    display: Bioacoustics (2011), 20, 277-286.
+  highlight: 0
+  news2: 
+
+- title: "Non‐Selective and Time‐Dependent Behavioural Responses of Common Toads (Bufo bufo) to Predator Acoustic Cues"
+  image: 
+  description: ""
+  authors: D Llusia, R Márquez, JF Beltrán
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-0310.2010.01832.x
+    display: Ethology (2010), 116(2), 1146-1154.
+  highlight: 0
+  news2: 
+
+
+- title: "Bioacoustics approaches in biodiversity inventories"
+  image: 
+  description: ""
+  authors: MK Obrist, G Pavan, J Sueur, K Riede, D Llusia, R Márquez
+  link:
+    url: https://www.researchgate.net/profile/Gianni_Pavan/publication/230818809_Chapter_5_Bioacoustics_approaches_in_biodiversity_inventories/links/09e41504f159422248000000.pdf
+    display: Abc Taxa (2010), 8, 68-99.
+  highlight: 0
+  news2: 
+
+- title: "Anurans, the group of terrestrial vertebrates most vulnerable to climate change: a case study with acoustic monitoring in the Iberian Peninsula"
+  image: 
+  description: ""
+  authors: R Marquez, D Llusia, JF Beltran, JP Do Amaral, RG Bowkers
+  link:
+    url: 
+    display: Computational Bioacoustics for Assessing Biodiversity (2008), 4-52
+  highlight: 0
+  news2: 
+
+
+- title: "Modelling the effects of alternative CAP policies for the Spanish high-nature value cereal-steppe farming systems"
+  image: 
+  description: ""
+  authors: JJ Oñate, I Atance, I Bardají, D Llusia
+  link:
+    url: 
+    display: Agricultural Systems (2007), 94(2), 247-260.
+  highlight: 0
+  news2: 
+
+
+- title: "Are the conservation requirements of pseudo-steppe birds adequately covered by Spanish agri-environmental schemes? An ex-ante assessment"
+  image: 
+  description: ""
+  authors: D Llusia, JJ Oñate
+  link:
+    url: 
+    display: Ardeola (2005), 52(1), 31-42.
+  highlight: 0
+  news2: 
